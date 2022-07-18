@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T06:57:22.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="duIoRGGFkhqBDfAJfGB9" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T06:57:45.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="ji90ICWrE9GRXk-2eEYP" version="20.1.1" type="github">
   <diagram id="3DF-HMF9YldkH5yhk9YW" name="第 1 页">
-    <mxGraphModel dx="942" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1178" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,43 +88,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="la58n8PUMo0xB4A3V1Z5-30" value="联机接口" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="555" width="70" height="30" as="geometry" />
+          <mxGeometry x="330" y="555" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="la58n8PUMo0xB4A3V1Z5-31" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414" y="569.5" as="sourcePoint" />
-            <mxPoint x="459" y="569.5" as="targetPoint" />
+            <mxPoint x="394" y="569.5" as="sourcePoint" />
+            <mxPoint x="439" y="569.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="la58n8PUMo0xB4A3V1Z5-32" value="批量接口" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="555" width="70" height="30" as="geometry" />
+          <mxGeometry x="460" y="555" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="la58n8PUMo0xB4A3V1Z5-33" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="544" y="569.5" as="sourcePoint" />
-            <mxPoint x="589" y="569.5" as="targetPoint" />
+            <mxPoint x="524" y="569.5" as="sourcePoint" />
+            <mxPoint x="569" y="569.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="la58n8PUMo0xB4A3V1Z5-34" value="注：红色为已有连接，黑色为新增连接" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="550" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="la58n8PUMo0xB4A3V1Z5-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="575" y="610" width="80" height="30" as="geometry" />
+          <mxGeometry x="540" y="610" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="la58n8PUMo0xB4A3V1Z5-36" value="改造系统" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="505" y="610" width="70" height="30" as="geometry" />
+          <mxGeometry x="470" y="610" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="la58n8PUMo0xB4A3V1Z5-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
-          <mxGeometry x="425" y="610" width="80" height="30" as="geometry" />
+          <mxGeometry x="390" y="610" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="la58n8PUMo0xB4A3V1Z5-38" value="新建系统" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="355" y="610" width="70" height="30" as="geometry" />
+          <mxGeometry x="320" y="610" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="la58n8PUMo0xB4A3V1Z5-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="740" y="610" width="80" height="30" as="geometry" />
+          <mxGeometry x="705" y="610" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="la58n8PUMo0xB4A3V1Z5-40" value="配合系统" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="610" width="70" height="30" as="geometry" />
+          <mxGeometry x="635" y="610" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
