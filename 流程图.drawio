@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T02:50:49.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="6BJYUNVKVwQX937S63UJ" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T02:51:03.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="Nl23XJDA4PDoxeQ8OCR9" version="20.1.1" type="github">
   <diagram id="ErMQ2x-8SDK05himzGdW" name="第 1 页">
-    <mxGraphModel dx="1570" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1884" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,8 +101,8 @@
             <mxPoint x="1105.0000000000005" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-26" value="&lt;font color=&quot;#ffffff&quot;&gt;网易云信云平台&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#3399FF;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="124" width="110" height="30" as="geometry" />
+        <mxCell id="GySj4y0GzuySVMUoJGsc-26" value="&lt;font color=&quot;#ffffff&quot;&gt;运营商系统&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#3399FF;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="124" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GySj4y0GzuySVMUoJGsc-27" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;startArrow=none;" edge="1" source="GySj4y0GzuySVMUoJGsc-28" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
