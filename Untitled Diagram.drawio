@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T02:08:26.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="T0EoVYh5boju08xi0Iii" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T02:08:45.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="iV7N3HJXY6aLpH8bp534" version="20.1.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1108" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -68,9 +68,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lTpSZbRqluIeD73lq304-8" value="应用服务器" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="280" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="lTpSZbRqluIeD73lq304-6" value="WEB服务器Nginx" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="524.6600000000001" y="354" width="120" height="30" as="geometry" />
         </mxCell>
@@ -97,6 +94,9 @@
         </mxCell>
         <mxCell id="lTpSZbRqluIeD73lq304-24" value="IOS端" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="679.755" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lTpSZbRqluIeD73lq304-25" value="Redis服务器" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="785.285" y="194" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
