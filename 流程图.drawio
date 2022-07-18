@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T03:00:25.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="-TL9Jl6CErDK0eVB6eTJ" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T03:03:16.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="_UfaPZ642pMfqfVjaGYZ" version="20.1.1" type="github">
   <diagram id="ErMQ2x-8SDK05himzGdW" name="第 1 页">
-    <mxGraphModel dx="1570" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1346" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,51 +51,6 @@
             <mxPoint x="397.0831792975971" y="154" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-12" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;startArrow=none;" edge="1" parent="1" source="GySj4y0GzuySVMUoJGsc-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="163" y="190" as="sourcePoint" />
-            <mxPoint x="393" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-15" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;startArrow=none;" edge="1" parent="1" source="GySj4y0GzuySVMUoJGsc-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400.0000000000002" y="250.0000000000001" as="sourcePoint" />
-            <mxPoint x="630" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-17" value="&lt;font color=&quot;#000000&quot;&gt;1、用户输入手机号&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="210" y="175" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-18" value="" style="endArrow=none;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;" edge="1" parent="1" target="GySj4y0GzuySVMUoJGsc-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="163" y="190" as="sourcePoint" />
-            <mxPoint x="393" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-20" value="2、申请发送验证码" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="445" y="235" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-21" value="" style="endArrow=none;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;" edge="1" parent="1" target="GySj4y0GzuySVMUoJGsc-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400.0000000000002" y="250.0000000000001" as="sourcePoint" />
-            <mxPoint x="630" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-22" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;startArrow=none;" edge="1" source="GySj4y0GzuySVMUoJGsc-23" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="637.0000000000002" y="328.0000000000001" as="sourcePoint" />
-            <mxPoint x="867" y="328" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-23" value="3、调用云平台短信服务" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="672" y="313" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-24" value="" style="endArrow=none;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;" edge="1" target="GySj4y0GzuySVMUoJGsc-23" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="637.0000000000002" y="328.0000000000001" as="sourcePoint" />
-            <mxPoint x="867" y="328" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GySj4y0GzuySVMUoJGsc-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#FFFFFF;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#0066CC;" edge="1" source="GySj4y0GzuySVMUoJGsc-26" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1105.0000000000005" y="680" as="targetPoint" />
@@ -104,106 +59,181 @@
         <mxCell id="GySj4y0GzuySVMUoJGsc-26" value="&lt;font color=&quot;#ffffff&quot;&gt;运营商系统&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#3399FF;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1065" y="124" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-27" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;startArrow=none;" edge="1" source="GySj4y0GzuySVMUoJGsc-28" parent="1">
+        <mxCell id="GySj4y0GzuySVMUoJGsc-62" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="163" y="175" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-12" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;startArrow=none;" edge="1" parent="GySj4y0GzuySVMUoJGsc-62" source="GySj4y0GzuySVMUoJGsc-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="870.0000000000002" y="398.0000000000001" as="sourcePoint" />
-            <mxPoint x="1100" y="398" as="targetPoint" />
+            <mxPoint y="15" as="sourcePoint" />
+            <mxPoint x="230" y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-28" value="4、调用运营商短信服务" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="905" y="383" width="150" height="30" as="geometry" />
+        <mxCell id="GySj4y0GzuySVMUoJGsc-17" value="&lt;font color=&quot;#000000&quot;&gt;1、用户输入手机号&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="GySj4y0GzuySVMUoJGsc-62">
+          <mxGeometry x="47" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-29" value="" style="endArrow=none;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;" edge="1" target="GySj4y0GzuySVMUoJGsc-28" parent="1">
+        <mxCell id="GySj4y0GzuySVMUoJGsc-18" value="" style="endArrow=none;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;" edge="1" parent="GySj4y0GzuySVMUoJGsc-62" target="GySj4y0GzuySVMUoJGsc-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="870" y="398" as="sourcePoint" />
-            <mxPoint x="1100" y="398" as="targetPoint" />
+            <mxPoint y="15" as="sourcePoint" />
+            <mxPoint x="230" y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-30" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;startArrow=none;" edge="1" parent="1" source="GySj4y0GzuySVMUoJGsc-33">
+        <mxCell id="GySj4y0GzuySVMUoJGsc-63" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400.0000000000002" y="233" width="229.99999999999977" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-15" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;startArrow=none;" edge="1" parent="GySj4y0GzuySVMUoJGsc-63" source="GySj4y0GzuySVMUoJGsc-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1098" y="480" as="sourcePoint" />
-            <mxPoint x="168" y="480" as="targetPoint" />
+            <mxPoint y="15.000000000000114" as="sourcePoint" />
+            <mxPoint x="229.99999999999977" y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-32" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;startArrow=none;" edge="1" parent="1" source="GySj4y0GzuySVMUoJGsc-37">
+        <mxCell id="GySj4y0GzuySVMUoJGsc-20" value="2、申请发送验证码" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="GySj4y0GzuySVMUoJGsc-63">
+          <mxGeometry x="44.99999999999977" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-21" value="" style="endArrow=none;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;" edge="1" parent="GySj4y0GzuySVMUoJGsc-63" target="GySj4y0GzuySVMUoJGsc-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1098" y="520" as="sourcePoint" />
-            <mxPoint x="638" y="520" as="targetPoint" />
+            <mxPoint y="15.000000000000114" as="sourcePoint" />
+            <mxPoint x="229.99999999999977" y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-33" value="5、发送验证码至用户手机" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="525" y="465" width="160" height="30" as="geometry" />
+        <mxCell id="GySj4y0GzuySVMUoJGsc-64" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="637.0000000000002" y="291" width="229.99999999999977" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-35" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;" edge="1" parent="1" target="GySj4y0GzuySVMUoJGsc-33">
+        <mxCell id="GySj4y0GzuySVMUoJGsc-22" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;startArrow=none;" edge="1" source="GySj4y0GzuySVMUoJGsc-23" parent="GySj4y0GzuySVMUoJGsc-64">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1098" y="480" as="sourcePoint" />
-            <mxPoint x="167.99999999999977" y="480" as="targetPoint" />
+            <mxPoint y="15.000000000000114" as="sourcePoint" />
+            <mxPoint x="229.99999999999977" y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-37" value="6、发送验证码至短信服务系统" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="775" y="505" width="190" height="30" as="geometry" />
+        <mxCell id="GySj4y0GzuySVMUoJGsc-23" value="3、调用云平台短信服务" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="GySj4y0GzuySVMUoJGsc-64">
+          <mxGeometry x="34.99999999999977" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-40" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;" edge="1" parent="1" target="GySj4y0GzuySVMUoJGsc-37">
+        <mxCell id="GySj4y0GzuySVMUoJGsc-24" value="" style="endArrow=none;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;" edge="1" target="GySj4y0GzuySVMUoJGsc-23" parent="GySj4y0GzuySVMUoJGsc-64">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1098" y="520" as="sourcePoint" />
-            <mxPoint x="638" y="520" as="targetPoint" />
+            <mxPoint y="15.000000000000114" as="sourcePoint" />
+            <mxPoint x="229.99999999999977" y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-41" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;startArrow=none;" edge="1" parent="1" source="GySj4y0GzuySVMUoJGsc-44">
+        <mxCell id="GySj4y0GzuySVMUoJGsc-65" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="870" y="349" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-27" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;startArrow=none;" edge="1" source="GySj4y0GzuySVMUoJGsc-28" parent="GySj4y0GzuySVMUoJGsc-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="162" y="616" as="sourcePoint" />
-            <mxPoint x="632" y="616" as="targetPoint" />
+            <mxPoint x="2.2737367544323206e-13" y="15.000000000000114" as="sourcePoint" />
+            <mxPoint x="230" y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-44" value="8、用户填写验证码" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="332" y="601" width="130" height="30" as="geometry" />
+        <mxCell id="GySj4y0GzuySVMUoJGsc-28" value="4、调用运营商短信服务" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="GySj4y0GzuySVMUoJGsc-65">
+          <mxGeometry x="35" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-45" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;" edge="1" parent="1" target="GySj4y0GzuySVMUoJGsc-44">
+        <mxCell id="GySj4y0GzuySVMUoJGsc-29" value="" style="endArrow=none;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;" edge="1" target="GySj4y0GzuySVMUoJGsc-28" parent="GySj4y0GzuySVMUoJGsc-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="162" y="616" as="sourcePoint" />
-            <mxPoint x="632" y="616" as="targetPoint" />
+            <mxPoint y="15" as="sourcePoint" />
+            <mxPoint x="230" y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-46" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;startArrow=none;" edge="1" parent="1" source="GySj4y0GzuySVMUoJGsc-47">
+        <mxCell id="GySj4y0GzuySVMUoJGsc-66" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="168" y="408" width="930" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-30" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;startArrow=none;" edge="1" parent="GySj4y0GzuySVMUoJGsc-66" source="GySj4y0GzuySVMUoJGsc-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="632" y="656" as="sourcePoint" />
-            <mxPoint x="160" y="656" as="targetPoint" />
+            <mxPoint x="930" y="15" as="sourcePoint" />
+            <mxPoint y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-47" value="9、返回对比结果" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="339" y="640" width="110" height="30" as="geometry" />
+        <mxCell id="GySj4y0GzuySVMUoJGsc-33" value="5、发送验证码至用户手机" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="GySj4y0GzuySVMUoJGsc-66">
+          <mxGeometry x="357" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-48" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;" edge="1" parent="1" target="GySj4y0GzuySVMUoJGsc-47">
+        <mxCell id="GySj4y0GzuySVMUoJGsc-35" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;" edge="1" parent="GySj4y0GzuySVMUoJGsc-66" target="GySj4y0GzuySVMUoJGsc-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="632" y="656" as="sourcePoint" />
-            <mxPoint x="160" y="659" as="targetPoint" />
+            <mxPoint x="930" y="15" as="sourcePoint" />
+            <mxPoint x="-2.2737367544323206e-13" y="15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-51" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;elbow=vertical;" edge="1" parent="1">
+        <mxCell id="GySj4y0GzuySVMUoJGsc-68" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="625" y="514" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-51" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;elbow=vertical;" edge="1" parent="GySj4y0GzuySVMUoJGsc-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="675" y="590" as="sourcePoint" />
-            <mxPoint x="635" y="590" as="targetPoint" />
+            <mxPoint x="50" y="50" as="sourcePoint" />
+            <mxPoint x="10" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-55" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;elbow=vertical;startArrow=none;startFill=0;endFill=0;" edge="1" parent="1">
+        <mxCell id="GySj4y0GzuySVMUoJGsc-55" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;elbow=vertical;startArrow=none;startFill=0;endFill=0;" edge="1" parent="GySj4y0GzuySVMUoJGsc-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="675" y="540" as="sourcePoint" />
-            <mxPoint x="635" y="540" as="targetPoint" />
+            <mxPoint x="50" as="sourcePoint" />
+            <mxPoint x="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-59" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;elbow=vertical;startArrow=none;" edge="1" parent="1" source="GySj4y0GzuySVMUoJGsc-60">
+        <mxCell id="GySj4y0GzuySVMUoJGsc-59" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;elbow=vertical;startArrow=none;" edge="1" parent="GySj4y0GzuySVMUoJGsc-68" source="GySj4y0GzuySVMUoJGsc-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="675" y="590" as="sourcePoint" />
-            <mxPoint x="675" y="540" as="targetPoint" />
+            <mxPoint x="50" y="50" as="sourcePoint" />
+            <mxPoint x="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-60" value="7、存储验证码" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="625" y="550" width="100" height="30" as="geometry" />
+        <mxCell id="GySj4y0GzuySVMUoJGsc-60" value="7、存储验证码" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="GySj4y0GzuySVMUoJGsc-68">
+          <mxGeometry y="10" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-61" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;elbow=vertical;" edge="1" parent="1" target="GySj4y0GzuySVMUoJGsc-60">
+        <mxCell id="GySj4y0GzuySVMUoJGsc-61" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;elbow=vertical;" edge="1" parent="GySj4y0GzuySVMUoJGsc-68" target="GySj4y0GzuySVMUoJGsc-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="675" y="590" as="sourcePoint" />
-            <mxPoint x="675" y="540" as="targetPoint" />
+            <mxPoint x="50" y="50" as="sourcePoint" />
+            <mxPoint x="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-69" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="162" y="582" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-41" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;startArrow=none;" edge="1" parent="GySj4y0GzuySVMUoJGsc-69" source="GySj4y0GzuySVMUoJGsc-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="15" as="sourcePoint" />
+            <mxPoint x="470" y="15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-44" value="8、用户填写验证码" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="GySj4y0GzuySVMUoJGsc-69">
+          <mxGeometry x="170" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-45" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;" edge="1" parent="GySj4y0GzuySVMUoJGsc-69" target="GySj4y0GzuySVMUoJGsc-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="15" as="sourcePoint" />
+            <mxPoint x="470" y="15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-71" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="638" y="466" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-37" value="6、发送验证码至短信服务系统" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="GySj4y0GzuySVMUoJGsc-71">
+          <mxGeometry x="137" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-67" value="" style="group" vertex="1" connectable="0" parent="GySj4y0GzuySVMUoJGsc-71">
+          <mxGeometry y="12" width="460" as="geometry" />
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-32" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;startArrow=none;" edge="1" parent="GySj4y0GzuySVMUoJGsc-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="137" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-40" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;" edge="1" parent="GySj4y0GzuySVMUoJGsc-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" as="sourcePoint" />
+            <mxPoint x="327" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-72" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="640" width="472" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-46" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;startArrow=none;" edge="1" parent="GySj4y0GzuySVMUoJGsc-72" source="GySj4y0GzuySVMUoJGsc-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="472" y="16" as="sourcePoint" />
+            <mxPoint y="16" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-47" value="9、返回对比结果" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="GySj4y0GzuySVMUoJGsc-72">
+          <mxGeometry x="179" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-48" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;" edge="1" parent="GySj4y0GzuySVMUoJGsc-72" target="GySj4y0GzuySVMUoJGsc-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="472" y="16" as="sourcePoint" />
+            <mxPoint y="19" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
