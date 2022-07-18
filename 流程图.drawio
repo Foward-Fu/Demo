@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T02:47:17.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="q-5n4yjBI5plqernfqkx" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T02:50:49.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="6BJYUNVKVwQX937S63UJ" version="20.1.1" type="github">
   <diagram id="ErMQ2x-8SDK05himzGdW" name="第 1 页">
-    <mxGraphModel dx="1449" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1570" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,13 +140,43 @@
             <mxPoint x="167.99999999999977" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-37" value="8、发送验证码短信服务系统" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="785" y="505" width="170" height="30" as="geometry" />
+        <mxCell id="GySj4y0GzuySVMUoJGsc-37" value="8、发送验证码至短信服务系统" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="775" y="505" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GySj4y0GzuySVMUoJGsc-40" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;" edge="1" parent="1" target="GySj4y0GzuySVMUoJGsc-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1098" y="520" as="sourcePoint" />
             <mxPoint x="638" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-41" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;startArrow=none;" edge="1" parent="1" source="GySj4y0GzuySVMUoJGsc-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="162" y="580" as="sourcePoint" />
+            <mxPoint x="632" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-44" value="9、用户填写验证码" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="332" y="565" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-45" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;" edge="1" parent="1" target="GySj4y0GzuySVMUoJGsc-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="162" y="580" as="sourcePoint" />
+            <mxPoint x="632" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-46" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;startArrow=none;" edge="1" parent="1" source="GySj4y0GzuySVMUoJGsc-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="632" y="620" as="sourcePoint" />
+            <mxPoint x="160" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-47" value="10、返回对比结果" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="334" y="604" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-48" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;" edge="1" parent="1" target="GySj4y0GzuySVMUoJGsc-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="632" y="620" as="sourcePoint" />
+            <mxPoint x="160" y="623" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
