@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T02:42:35.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="T83Htd7gCfm6aGyQcvOP" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T02:44:38.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="LKXg2jZvCr4D9Xc59GP4" version="20.1.1" type="github">
   <diagram id="ErMQ2x-8SDK05himzGdW" name="第 1 页">
-    <mxGraphModel dx="992" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1713" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,13 +72,51 @@
             <mxPoint x="393" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GySj4y0GzuySVMUoJGsc-20" value="2、发送验证码" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="460" y="235" width="100" height="30" as="geometry" />
+        <mxCell id="GySj4y0GzuySVMUoJGsc-20" value="2、申请发送验证码" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="445" y="235" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GySj4y0GzuySVMUoJGsc-21" value="" style="endArrow=none;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;" edge="1" parent="1" target="GySj4y0GzuySVMUoJGsc-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400.0000000000002" y="250.0000000000001" as="sourcePoint" />
             <mxPoint x="630" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-22" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;startArrow=none;" edge="1" source="GySj4y0GzuySVMUoJGsc-23" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="637.0000000000002" y="328.0000000000001" as="sourcePoint" />
+            <mxPoint x="867" y="328" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-23" value="3、调用云平台短信服务" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="672" y="313" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-24" value="" style="endArrow=none;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;" edge="1" target="GySj4y0GzuySVMUoJGsc-23" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="637.0000000000002" y="328.0000000000001" as="sourcePoint" />
+            <mxPoint x="867" y="328" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#FFFFFF;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#0066CC;" edge="1" source="GySj4y0GzuySVMUoJGsc-26" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1105.0000000000005" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-26" value="&lt;font color=&quot;#ffffff&quot;&gt;网易云信云平台&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=#3399FF;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="124" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-27" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;startArrow=none;" edge="1" source="GySj4y0GzuySVMUoJGsc-28" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870.0000000000002" y="398.0000000000001" as="sourcePoint" />
+            <mxPoint x="1100" y="398" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-28" value="4、调用运营商短信服务" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="905" y="383" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-29" value="" style="endArrow=none;html=1;rounded=0;fontColor=#FFFFFF;strokeColor=#66CC00;endFill=1;" edge="1" target="GySj4y0GzuySVMUoJGsc-28" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="398" as="sourcePoint" />
+            <mxPoint x="1100" y="398" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
