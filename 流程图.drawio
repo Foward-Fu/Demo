@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T02:44:38.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="LKXg2jZvCr4D9Xc59GP4" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T02:47:17.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="q-5n4yjBI5plqernfqkx" version="20.1.1" type="github">
   <diagram id="ErMQ2x-8SDK05himzGdW" name="第 1 页">
-    <mxGraphModel dx="1713" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1449" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,6 +117,36 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="870" y="398" as="sourcePoint" />
             <mxPoint x="1100" y="398" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-30" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;startArrow=none;" edge="1" parent="1" source="GySj4y0GzuySVMUoJGsc-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1098" y="480" as="sourcePoint" />
+            <mxPoint x="168" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-32" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;startArrow=none;" edge="1" parent="1" source="GySj4y0GzuySVMUoJGsc-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1098" y="520" as="sourcePoint" />
+            <mxPoint x="638" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-33" value="7、发送验证码至用户手机" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="525" y="465" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-35" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;" edge="1" parent="1" target="GySj4y0GzuySVMUoJGsc-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1098" y="480" as="sourcePoint" />
+            <mxPoint x="167.99999999999977" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-37" value="8、发送验证码短信服务系统" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="785" y="505" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GySj4y0GzuySVMUoJGsc-40" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;strokeColor=#66CC00;" edge="1" parent="1" target="GySj4y0GzuySVMUoJGsc-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1098" y="520" as="sourcePoint" />
+            <mxPoint x="638" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
