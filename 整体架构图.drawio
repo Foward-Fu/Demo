@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T03:27:06.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="7EZtYq3KkYqfRgCvg1Ue" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T03:27:24.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="uqBryQ-OevslZZVH5lGe" version="20.1.1" type="github">
   <diagram id="3DF-HMF9YldkH5yhk9YW" name="第 1 页">
     <mxGraphModel dx="942" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,10 +16,10 @@
         <mxCell id="la58n8PUMo0xB4A3V1Z5-5" value="短信服务系统" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="114" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="la58n8PUMo0xB4A3V1Z5-6" value="短信发送模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
+        <mxCell id="la58n8PUMo0xB4A3V1Z5-6" value="短信验证码&lt;br&gt;发送模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="400" y="160" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="la58n8PUMo0xB4A3V1Z5-7" value="短信存储模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
+        <mxCell id="la58n8PUMo0xB4A3V1Z5-7" value="短信验证码&lt;br&gt;存储模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="la58n8PUMo0xB4A3V1Z5-8" value="短信验证码对比验证模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
