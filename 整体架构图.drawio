@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-11T13:45:19.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.47" etag="y3VyxH-b4BpQOtaa0wJQ" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-12T06:50:14.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.47" etag="xBVM3zGOfd_GF64yXAkw" version="20.2.3" type="github">
   <diagram id="3DF-HMF9YldkH5yhk9YW" name="第 1 页">
-    <mxGraphModel dx="1108" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,21 +88,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="la58n8PUMo0xB4A3V1Z5-30" value="联机接口" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="330" y="555" width="70" height="30" as="geometry" />
+          <mxGeometry x="450.5" y="550" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="la58n8PUMo0xB4A3V1Z5-31" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="394" y="569.5" as="sourcePoint" />
-            <mxPoint x="439" y="569.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="la58n8PUMo0xB4A3V1Z5-32" value="批量接口" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="460" y="555" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="la58n8PUMo0xB4A3V1Z5-33" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="524" y="569.5" as="sourcePoint" />
-            <mxPoint x="569" y="569.5" as="targetPoint" />
+            <mxPoint x="514.5" y="564.5" as="sourcePoint" />
+            <mxPoint x="559.5" y="564.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="la58n8PUMo0xB4A3V1Z5-34" value="注：红色为已有连接，黑色为新增连接" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
